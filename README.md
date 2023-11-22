@@ -28,7 +28,7 @@ Add it in your root build.gradle at the end of repositories:
 ### Step 2. Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.lwj1994:Matisse:${latestVersion}'
+	        implementation 'com.github.SingleTap:Matisse:${latestVersion}'
 	}
 ```
 
